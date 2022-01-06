@@ -1,0 +1,11 @@
+.teams-Container ul {
+    border: 0.1rem solid grey;
+    margin: 0;
+    padding: 0.5rem;
+  }
+
+  li {
+    list-style: none;
+    font-size: 1.2rem;
+    margin-bottom: .25rem;
+}
